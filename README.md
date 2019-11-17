@@ -26,7 +26,7 @@ The following page should be displayed:
 
 ## Features  
 
-Create a student and a faculty account first. Then create some courses in the faculty account, in which the student can enroll. Here is a preview of a student's details page and a faculty's details page:  
+Create a student and a faculty account first. Then create some courses in the faculty account, in which the student can enroll. Here is a preview of a faculty's details page and a student's details page :  
 
 
 Faculty Details Page:  
